@@ -6,7 +6,7 @@ class CommentBox extends React.Component {
     render() {
         return (
         <div className="CommentBox">
-            <h1>This is the To Do Box!</h1> 
+            <h1>Comments</h1> 
                 <CommentList />  
                 <CommentForm /> 
         </div>        
