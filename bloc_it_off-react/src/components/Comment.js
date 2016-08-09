@@ -1,4 +1,5 @@
 import React from 'react' 
+import Remarkable from 'remarkable'
 
 class Comment extends React.Component {
    rawMarkup= function() {
